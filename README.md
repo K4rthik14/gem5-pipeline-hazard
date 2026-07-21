@@ -2,7 +2,6 @@
 
 > A Computer Organization & Architecture mini project analyzing data, control, and structural pipeline hazards using the GEM5 architectural simulator.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Simulator](https://img.shields.io/badge/Simulator-GEM5-orange)
 ![Language](https://img.shields.io/badge/Language-C-blue)
 
