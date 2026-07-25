@@ -145,6 +145,8 @@ The experiments compare the performance impact of each pipeline hazard using met
 
 Simulation results can be visualized using Python and Matplotlib.
 
+![CPI Comparison](plots/plot1_cpi_comparison.png)
+![IPC Comparison](plots/plot2_ipc_comparison.png)
 Example comparison:
 
 * CPI across hazard types
