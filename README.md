@@ -137,7 +137,6 @@ The experiments compare the performance impact of each pipeline hazard using met
 | Control Hazard    | Branch mispredictions | Pipeline flushes     |
 | Structural Hazard | Resource conflicts    | Execution delays     |
 
-> Replace the table with your measured CPI, IPC, stall counts, and branch statistics from GEM5.
 
 ---
 
@@ -145,16 +144,15 @@ The experiments compare the performance impact of each pipeline hazard using met
 
 Simulation results can be visualized using Python and Matplotlib.
 
-![CPI Comparison](plots/plot1_cpi_comparison.png)
-![IPC Comparison](plots/plot2_ipc_comparison.png)
+
 Example comparison:
 
 * CPI across hazard types
 * Pipeline stall counts
 * Branch misprediction statistics
 
-Include the generated plots inside the `plots/` directory.
-
+[CPI Comparison](plots/plot1_cpi_comparison.png)
+[IPC Comparison](plots/plot2_ipc_comparison.png)
 ---
 
 ## Key Learnings
