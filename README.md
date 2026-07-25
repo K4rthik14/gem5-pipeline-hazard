@@ -151,8 +151,8 @@ Example comparison:
 * Pipeline stall counts
 * Branch misprediction statistics
 
-[CPI Comparison](plots/plot1_cpi_comparison.png)
-[IPC Comparison](plots/plot2_ipc_comparison.png)
+![CPI Comparison](plots/plot1_cpi_comparison.png)
+![IPC Comparison](plots/plot2_ipc_comparison.png)
 ---
 
 ## Key Learnings
